@@ -1,0 +1,13 @@
+.wallet {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.get-wallet-btn {
+	height: 20px;
+}
+
+.empty {
+	height: 0px;
+}

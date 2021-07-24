@@ -1,0 +1,16 @@
+.send-transaction {
+	margin-top: 15px;
+}
+
+.transaction {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.get-transaction {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-top: 25px;
+}
